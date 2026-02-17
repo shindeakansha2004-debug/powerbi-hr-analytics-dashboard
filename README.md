@@ -77,6 +77,12 @@ To enhance analytical accuracy, the following transformations were performed:
 
 ---
 
+## 📊 Dashboard Preview
+
+![HR Analytics Dashboard](POWERBI%20DASHBOARD.png)
+
+---
+
 ## 💼 Business Value
 This dashboard helps organizations to:
 - Identify high-risk attrition segments
