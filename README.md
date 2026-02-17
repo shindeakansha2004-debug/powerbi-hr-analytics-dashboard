@@ -1,4 +1,4 @@
-# powerbi-hr-analytics-attrition-dashboard
+# powerbi-hr-analytics-dashboard
 Power BI HR analytics dashboard analyzing employee attrition using KPIs, age groups, departments, education fields, and derived columns.
 # 📊 HR Analytics Dashboard – Power BI
 
